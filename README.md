@@ -18,4 +18,7 @@ Se o site não der para colar, escreva "allow pasting" e depois tente novamente.
 * E após isto clique na área que dê para escrever.
 * E cole o texto na caixa de texto "Digite ou cole aqui o texto que deseja auto-digitar.
 * E pronto, iniciali-ze clicando em Auto Digitar.
+
+# OBS 
+É normal travar se você colocar velocidade 80+, é só aguardar, que mais ou menos em 2-3 minutos ele carrega o texto com o site.
 #100%IA.
