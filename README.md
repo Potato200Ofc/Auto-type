@@ -12,3 +12,5 @@ Roda em quaisquer site que dê para injetar um javascript no console
 * Depois clique ENTER.
 # OBS
 Se o site não der para colar, escreva "allow pasting" e depois tente novamente.
+
+#100%IA.
